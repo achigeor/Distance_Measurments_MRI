@@ -16,6 +16,7 @@ The user can view a DICOM image, or a set of DICOM images, using the dcmshow(img
 In order to use the functions from any folder, the user should add the folder to MATLAB PATH.
 
 STEPS
+
 1)Extract the .zip to a folder of your choice.
 
 2)Get the full path to to the functions folder e.g:          
