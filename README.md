@@ -1,8 +1,8 @@
 # Distance_Measurments_MRI
 #================================================================
 #
-#To measure distance across the scalp use the distance_measurement(image, measurement_type)function. 
-#Inputs are the name of the image, and the measurement type(nose or ear) both in string format. Output is the distance in cm.
+##To measure distance across the scalp use the distance_measurement(image, measurement_type)function. 
+##Inputs are the name of the image, and the measurement type(nose or ear) both in string format. Output is the distance in cm.
 #
 #To measure the perimeter of a subjects head, use the perimeter_measurement(img_ind) function.
 #Inputs are the indexes of MRI DICOM images(in vector form) the user wants to use for finding the perimeter. Output is the #maximum perimeter calculated from given images.
